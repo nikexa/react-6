@@ -1,0 +1,35 @@
+.Btn{
+    width: 51px;
+    height: 51px;
+    border-radius: 50%;
+    border: 0px;
+    background-color: #262E38;
+    font-family: Overpass;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #7C8798;
+    transition: 0.3s;
+}
+.SButtonDiv{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Btn:hover{
+    background-color: #FC7614;
+    color: white;
+}
+.BtnActive{
+    width: 51px;
+    height: 51px;
+    border-radius: 50%;
+    border: 0px;
+    background-color: #7C8798;
+    font-family: Overpass;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: white;
+}

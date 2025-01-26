@@ -1,0 +1,17 @@
+.SubmitBtn{
+    width: 341px;
+    height: 45px;
+    border-radius: 22.5px;
+    border: 0px;
+    background-color: #FC7614;
+    color: white;
+    font-family: Overpass;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18.99px;
+    transition: 0.3s;
+}
+.SubmitBtn:hover{
+    background-color: white;
+    color: #FC7614;
+}
