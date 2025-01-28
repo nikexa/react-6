@@ -19,3 +19,18 @@
     text-align: center;
     color: #969FAD;
 }
+@media screen and (max-width:440px) {
+    .ThanksTextDiv{
+        width: 280px;
+    }
+    .ThanksMainText{
+        font-family: Overpass;
+        font-size: 24px;
+        font-weight: 700;  
+    }
+    .ThanksSecondText{
+        font-family: Overpass;
+        font-size: 14px;
+        font-weight: 400;
+    }
+}

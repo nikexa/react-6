@@ -33,3 +33,21 @@
     line-height: 24px;
     color: white;
 }
+@media screen and (max-width:440px) {
+    .Btn{
+        width: 42px;
+        height: 42px;
+        font-size: 14px;
+        font-weight: 700;
+        
+    }
+    .SButtonDiv{
+        margin-top: 10px;
+    }
+    .BtnActive{
+        width: 42px;
+        height: 42px;
+        font-size: 14px;
+        font-weight: 700;
+    }
+}

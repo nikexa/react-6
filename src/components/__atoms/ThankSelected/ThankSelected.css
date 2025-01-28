@@ -16,3 +16,14 @@
     color: #FC7614;
     margin: 0;
 }
+@media screen and (max-width:440px) {
+    .ThankSelectedDiv{
+        width: 168px;
+        height: 32px;
+    }
+    .ThankSelectedDiv p{
+        font-family: Overpass;
+        font-size: 14px;
+        font-weight: 400;
+    }
+}
